@@ -1,0 +1,252 @@
+[
+    {
+        "job_id": 1,
+        "department": "Production",
+        "job_desc_short": "Join our team as a Python Developer to create high-quality, maintainable code and collaborate on innovative solutions. Passion for technology and strong problem-solving skills required.",
+        "job_title": "Python Developer",
+        "job_desc": "We are seeking a talented and motivated Python Developer to join our dynamic team. As a Python Developer, you will be responsible for writing efficient, maintainable, and reusable code to develop high-quality applications. You will work closely with other developers, designers, and product managers to bring innovative solutions to complex problems. If you have a passion for technology, a strong problem-solving mindset, and a deep understanding of Python, we would love to meet you.",
+        "min_exp": 4,
+        "employement_type": "Full-time",
+        "sal_lower": 15000,
+        "sal_upper": 17000,
+        "location": "Agartala",
+        "organisation": "Yupcha Softwares",
+        "joining": "Immediate",
+        "responsibilities": [
+            "Develop highly scalable backend applications", "Implement modern frameworks based architecture", "Write clean, efficient, and well-documented code", "Stay updated with the latest industry trends and technologies to continuously improve skills and knowledge"
+        ],
+        "requirements": [
+            "Min 4 years experience working as a backend developer", "Experience on developing robust backend applications", "Proven experience as a Python Developer or similar role.", "Experience with popular Python frameworks (e.g., Django, Flask, FastAPI)", "Knowledge of SQL and database technologies (e.g., PostgreSQL, MySQL)."
+        ],
+        "preferred_qualifications": [
+            "Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)", "Knowledge of containerization technologies (e.g., Docker, Kubernetes)", "Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch) is a plus." 
+        ],
+        "benefits": ["Flexible working hours and remote work options", "Professional development opportunities and learning budget", "Collaborative and inclusive work environment"]
+    },
+    
+    {
+        "job_id": 2,
+        "department": "Production",
+        "job_desc_short": "Join our team as a Python Developer to create high-quality, maintainable code and collaborate on innovative solutions. Passion for technology and strong problem-solving skills required.",
+        "job_title": "Technical Writer",
+        "job_desc": "Drainage of Left Lower Femur, Percutaneous Approach, Diagn",
+        "min_exp": 1,
+        "employement_type": "Full-time",
+        "sal_lower": 15000,
+        "sal_upper": 22000,
+        "location": "Remote",
+        "organisation": "Yupcha Softwares",
+        "joining": "Immediate",
+        "responsibilities": [
+            "Develop highly scalable backend applications", "Implement modern frameworks based architecture", "Deploy on cloud and maintainence"
+        ],
+        "requirements": [
+            "Min 4 years experience working as a backend developer", "Experience on developing robust backend applications", "Proven experience as a Python Developer or similar role.", "Experience with popular Python frameworks (e.g., Django, Flask, FastAPI)", "Knowledge of SQL and database technologies (e.g., PostgreSQL, MySQL)."
+        ],
+        "preferred_qualifications": [
+            "Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)", "Knowledge of containerization technologies (e.g., Docker, Kubernetes)", "Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch) is a plus." 
+        ],
+        "benefits": ["Flexible working hours and remote work options", "Professional development opportunities and learning budget", "Collaborative and inclusive work environment"]
+
+    },
+    {
+        "job_id": 3,
+        "department": "Development",
+        "job_desc_short": "Join our team as a Python Developer to create high-quality, maintainable code and collaborate on innovative solutions. Passion for technology and strong problem-solving skills required.",
+        "job_title": "Research Associate",
+        "job_desc": "Removal of Drainage Device from L Ankle Jt, Extern Approach",
+        "min_exp": 3,
+        "employement_type": "Full-time",
+        "sal_lower": 20000,
+        "sal_upper": 22000,
+        "location": "Huaping",
+        "organisation": "Yupcha Softwares",
+        "joining": "Immediate",
+        "responsibilities": [
+            "Develop highly scalable backend applications", "Implement modern frameworks based architecture", "Deploy on cloud and maintainence"
+        ],
+        "requirements": [
+            "Min 4 years experience working as a backend developer", "Experience on developing robust backend applications", "Proven experience as a Python Developer or similar role.", "Experience with popular Python frameworks (e.g., Django, Flask, FastAPI)", "Knowledge of SQL and database technologies (e.g., PostgreSQL, MySQL)."
+        ],
+        "preferred_qualifications": [
+            "Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)", "Knowledge of containerization technologies (e.g., Docker, Kubernetes)", "Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch) is a plus." 
+        ],
+        "benefits": ["Flexible working hours and remote work options", "Professional development opportunities and learning budget", "Collaborative and inclusive work environment"]
+
+    },
+    {
+        "job_id": 4,
+        "department": "Development",
+        "job_desc_short": "Join our team as a Python Developer to create high-quality, maintainable code and collaborate on innovative solutions. Passion for technology and strong problem-solving skills required.",
+        "job_title": "Clinical Specialist",
+        "job_desc": "Bypass Ileum to Ileum with Autol Sub, Endo",
+        "min_exp": 5,
+        "employement_type": "Full-time",
+        "sal_lower": 10000,
+        "sal_upper": 12000,
+        "location": "Remote",
+        "organisation": "ABC Softwares",
+        "joining": "Immediate",
+        "responsibilities": [
+            "Develop highly scalable backend applications", "Implement modern frameworks based architecture", "Deploy on cloud and maintainence"
+        ],
+        "requirements": [
+            "Min 4 years experience working as a backend developer", "Experience on developing robust backend applications", "Proven experience as a Python Developer or similar role.", "Experience with popular Python frameworks (e.g., Django, Flask, FastAPI)", "Knowledge of SQL and database technologies (e.g., PostgreSQL, MySQL)."
+        ],
+        "preferred_qualifications": [
+            "Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)", "Knowledge of containerization technologies (e.g., Docker, Kubernetes)", "Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch) is a plus." 
+        ],
+        "benefits": ["Flexible working hours and remote work options", "Professional development opportunities and learning budget", "Collaborative and inclusive work environment"]
+
+    },
+    {
+        "job_id": 5,
+        "department": "Production",
+        "job_desc_short": "Join our team as a Python Developer to create high-quality, maintainable code and collaborate on innovative solutions. Passion for technology and strong problem-solving skills required.",
+        "job_title": "Structural Analysis Engineer",
+        "job_desc": "Fragmentation in Epidural Space, Perc Endo Approach",
+        "min_exp": 1,
+        "employement_type": "Full-time",
+        "sal_lower": 15000,
+        "sal_upper": 17000,
+        "location": "Kathu",
+        "organisation": "ABC Softwares",
+        "joining": "Immediate",
+        "responsibilities": [
+            "Develop highly scalable backend applications", "Implement modern frameworks based architecture", "Deploy on cloud and maintainence"
+        ],
+        "requirements": [
+            "Min 4 years experience working as a backend developer", "Experience on developing robust backend applications", "Proven experience as a Python Developer or similar role.", "Experience with popular Python frameworks (e.g., Django, Flask, FastAPI)", "Knowledge of SQL and database technologies (e.g., PostgreSQL, MySQL)."
+        ],
+        "preferred_qualifications": [
+            "Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)", "Knowledge of containerization technologies (e.g., Docker, Kubernetes)", "Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch) is a plus." 
+        ],
+        "benefits": ["Flexible working hours and remote work options", "Professional development opportunities and learning budget", "Collaborative and inclusive work environment"]
+
+    },
+    {
+        "job_id": 6,
+        "department": "Research and Development",
+        "job_desc_short": "Join our team as a Python Developer to create high-quality, maintainable code and collaborate on innovative solutions. Passion for technology and strong problem-solving skills required.",
+        "job_title": "Payment Adjustment Coordinator",
+        "job_desc": "Extraction of Left Kidney, Open Approach",
+        "min_exp": 5,
+        "employement_type": "Full-time",
+        "sal_lower": 20000,
+        "sal_upper": 22000,
+        "location": "Tha Tako",
+        "organisation": "Yupcha Softwares",
+        "joining": "Immediate",
+        "responsibilities": [
+            "Develop highly scalable backend applications", "Implement modern frameworks based architecture", "Deploy on cloud and maintainence"
+        ],
+        "requirements": [
+            "Min 4 years experience working as a backend developer", "Experience on developing robust backend applications", "Proven experience as a Python Developer or similar role.", "Experience with popular Python frameworks (e.g., Django, Flask, FastAPI)", "Knowledge of SQL and database technologies (e.g., PostgreSQL, MySQL)."
+        ],
+        "preferred_qualifications": [
+            "Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)", "Knowledge of containerization technologies (e.g., Docker, Kubernetes)", "Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch) is a plus." 
+        ],
+        "benefits": ["Flexible working hours and remote work options", "Professional development opportunities and learning budget", "Collaborative and inclusive work environment"]
+
+    },
+    {
+        "job_id": 7,
+        "department": "Production",
+        "job_desc_short": "Join our team as a Python Developer to create high-quality, maintainable code and collaborate on innovative solutions. Passion for technology and strong problem-solving skills required.",
+        "job_title": "Quality Control Specialist",
+        "job_desc": "Repair Urethra, Via Natural or Artificial Opening Endoscopic",
+        "min_exp": 2,
+        "employement_type": "Full-time",
+        "sal_lower": 20000,
+        "sal_upper": 22000,
+        "location": "Xincheng",
+        "organisation": "DEF Softwares",
+        "joining": "Immediate",
+        "responsibilities": [
+            "Develop highly scalable backend applications", "Implement modern frameworks based architecture", "Deploy on cloud and maintainence"
+        ],
+        "requirements": [
+            "Min 4 years experience working as a backend developer", "Experience on developing robust backend applications", "Proven experience as a Python Developer or similar role.", "Experience with popular Python frameworks (e.g., Django, Flask, FastAPI)", "Knowledge of SQL and database technologies (e.g., PostgreSQL, MySQL)."
+        ],
+        "preferred_qualifications": [
+            "Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)", "Knowledge of containerization technologies (e.g., Docker, Kubernetes)", "Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch) is a plus." 
+        ],
+        "benefits": ["Flexible working hours and remote work options", "Professional development opportunities and learning budget", "Collaborative and inclusive work environment"]
+
+    },
+    {
+        "job_id": 8,
+        "department": "Research and Development",
+        "job_desc_short": "Join our team as a Python Developer to create high-quality, maintainable code and collaborate on innovative solutions. Passion for technology and strong problem-solving skills required.",
+        "job_title": "Technical Writer",
+        "job_desc": "Excision of Left Cephalic Vein, Open Approach, Diagnostic",
+        "min_exp": 4,
+        "employement_type": "Full-time",
+        "sal_lower": 20000,
+        "sal_upper": 22000,
+        "location": "Parczew",
+        "organisation": "DEF Softwares",
+        "joining": "Immediate",
+        "responsibilities": [
+            "Develop highly scalable backend applications", "Implement modern frameworks based architecture", "Deploy on cloud and maintainence"
+        ],
+        "requirements": [
+            "Min 4 years experience working as a backend developer", "Experience on developing robust backend applications", "Proven experience as a Python Developer or similar role.", "Experience with popular Python frameworks (e.g., Django, Flask, FastAPI)", "Knowledge of SQL and database technologies (e.g., PostgreSQL, MySQL)."
+        ],
+        "preferred_qualifications": [
+            "Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)", "Knowledge of containerization technologies (e.g., Docker, Kubernetes)", "Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch) is a plus." 
+        ],
+        "benefits": ["Flexible working hours and remote work options", "Professional development opportunities and learning budget", "Collaborative and inclusive work environment"]
+
+    },
+    {
+        "job_id": 9,
+        "department": "Production",
+        "job_desc_short": "Join our team as a Python Developer to create high-quality, maintainable code and collaborate on innovative solutions. Passion for technology and strong problem-solving skills required.",
+        "job_title": "Health Coach II",
+        "job_desc": "Bypass Jejunum to Cecum, Open Approach",
+        "min_exp": 2,
+        "employement_type": "Full-time",
+        "sal_lower": 15000,
+        "sal_upper": 17000,
+        "location": "Glagahan",
+        "organisation": "Yupcha Softwares",
+        "joining": "Immediate",
+        "responsibilities": [
+            "Develop highly scalable backend applications", "Implement modern frameworks based architecture", "Deploy on cloud and maintainence"
+        ],
+        "requirements": [
+            "Min 4 years experience working as a backend developer", "Experience on developing robust backend applications", "Proven experience as a Python Developer or similar role.", "Experience with popular Python frameworks (e.g., Django, Flask, FastAPI)", "Knowledge of SQL and database technologies (e.g., PostgreSQL, MySQL)."
+        ],
+        "preferred_qualifications": [
+            "Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)", "Knowledge of containerization technologies (e.g., Docker, Kubernetes)", "Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch) is a plus." 
+        ],
+        "benefits": ["Flexible working hours and remote work options", "Professional development opportunities and learning budget", "Collaborative and inclusive work environment"]
+
+    },
+    {
+        "job_id": 10,
+        "department": "Research and Development",
+        "job_desc_short": "Join our team as a Python Developer to create high-quality, maintainable code and collaborate on innovative solutions. Passion for technology and strong problem-solving skills required.",
+        "job_title": "Associate Professor",
+        "job_desc": "Extirpation of Matter from L Axilla Vein, Perc Endo Approach",
+        "min_exp": 3,
+        "employement_type": "Full-time",
+        "sal_lower": 20000,
+        "sal_upper": 22000,
+        "location": "Humaitá",
+        "organisation": "Yupcha Softwares",
+        "joining": "Immediate",
+        "responsibilities": [
+            "Develop highly scalable backend applications", "Implement modern frameworks based architecture", "Deploy on cloud and maintainence"
+        ],
+        "requirements": [
+            "Min 4 years experience working as a backend developer", "Experience on developing robust backend applications", "Proven experience as a Python Developer or similar role.", "Experience with popular Python frameworks (e.g., Django, Flask, FastAPI)", "Knowledge of SQL and database technologies (e.g., PostgreSQL, MySQL)."
+        ],
+        "preferred_qualifications": [
+            "Experience with cloud platforms (e.g., AWS, Azure, Google Cloud)", "Knowledge of containerization technologies (e.g., Docker, Kubernetes)", "Understanding of machine learning libraries and frameworks (e.g., TensorFlow, PyTorch) is a plus." 
+        ],
+        "benefits": ["Flexible working hours and remote work options", "Professional development opportunities and learning budget", "Collaborative and inclusive work environment"]
+
+    }
+]

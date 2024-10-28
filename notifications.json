@@ -1,0 +1,113 @@
+[
+    {
+        "id": "#2548451",
+        "user": "Tom",
+        "message": "Tom placed an order #2548451",
+        "time": "12 hours ago",
+        "isRead": false,
+        "avatarUrl": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png",
+        "title": "New Order Placed",
+        "description": "Tom has placed a new order with #2548451, which includes a variety of items tailored to his preferences. The order is currently in the processing stage, and the team is working diligently to ensure everything is packaged securely and delivered on time. Customers can track their orders through their account for the latest updates. Tom has selected express shipping to ensure the items arrive quickly, and he is looking forward to receiving them soon. The order is expected to be shipped within the next 24 hours, pending final confirmations."
+      },
+      {
+        "id": "#2548452",
+        "user": "Jerry",
+        "message": "Jerry placed an order #2548452",
+        "time": "10 hours ago",
+        "isRead": true,
+        "avatarUrl": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png",
+        "title": "Order Confirmation",
+        "description": "Jerry has successfully placed an order with #2548452. The order includes multiple items that he has carefully selected based on his recent shopping list. The confirmation of this order signifies that all items are available and ready to be processed. The order is marked as ready for shipment, and Jerry can expect an update with tracking details shortly. As part of the order process, all items will undergo thorough quality checks to ensure they meet the expected standards before leaving the warehouse. Customer satisfaction is a priority, and Jerry is encouraged to reach out for any further assistance."
+      },
+      {
+        "id": "#2548453",
+        "user": "Scobby",
+        "message": "Scobby canceled an order #2548453",
+        "time": "9 hours ago",
+        "isRead": false,
+        "avatarUrl": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png",
+        "title": "Order Cancellation",
+        "description": "Scobby has decided to cancel the order with #2548453. After considering his options, he concluded that this particular order did not meet his current needs. The cancellation process has been successfully completed, and Scobby will receive a full refund for the amount charged. The cancellation was processed promptly, and no further action is required on his part. For future reference, Scobby is encouraged to browse through alternative products that may better suit his preferences. Customer service is available should he wish to discuss different items or have any inquiries regarding the cancellation."
+      },
+      {
+        "id": "#2548454",
+        "user": "Alice",
+        "message": "Alice placed an order #2548454",
+        "time": "8 hours ago",
+        "isRead": false,
+        "avatarUrl": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png",
+        "title": "New Order Placed",
+        "description": "Alice has recently placed an order with  #2548454, comprising a selection of stylish apparel and accessories. Each item in her order was chosen with care, reflecting her unique fashion sense. The order is currently being processed, and Alice can track its progress through her online account. The expected delivery date is within three to five business days. The team is committed to ensuring that all items are carefully packaged and shipped promptly. Alice will receive a notification once her items have shipped, along with tracking information for her convenience."
+      },
+      {
+        "id": "#2548455",
+        "user": "Bob",
+        "message": "Bob placed an order #2548455",
+        "time": "7 hours ago",
+        "isRead": true,
+        "avatarUrl": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png",
+        "title": "Order Confirmation",
+        "description": "Bob has successfully placed an order with  #2548455, including various electronic gadgets and accessories. The confirmation indicates that all selected items are in stock and being prepared for shipment. Bob has opted for standard delivery, and his order will typically arrive within five to seven business days. The processing team will ensure each item is thoroughly inspected before shipping to maintain quality assurance. Bob can view the status of his order at any time through his account dashboard, and he will receive an email confirmation once the order has been dispatched."
+      },
+      {
+        "id": "#2548456",
+        "user": "Mia",
+        "message": "Mia placed an order #2548456",
+        "time": "6 hours ago",
+        "isRead": false,
+        "avatarUrl": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png",
+        "title": "New Order Placed",
+        "description": "Mia has placed an order with  #2548456 for a variety of home essentials, which she believes will enhance her living space. The order is currently being processed and is expected to ship within the next two days. Each item in her order has been selected for its quality and practicality. Mia appreciates the fast service and is looking forward to receiving her items soon. She can check the status of her order in real time through her account, and she will receive a notification as soon as her items are on their way."
+      },
+      {
+        "id": "#2548457",
+        "user": "Liam",
+        "message": "Liam canceled an order #2548457",
+        "time": "5 hours ago",
+        "isRead": true,
+        "avatarUrl": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png",
+        "title": "Order Cancellation",
+        "description": "Liam has decided to cancel his order with #2548457. After careful consideration, he determined that he no longer needs the items he originally selected. The cancellation process was straightforward, and he has received confirmation that his order has been successfully canceled. Liam can expect to see a refund processed back to his original payment method within a few business days. For any further assistance or questions about new purchases, Liam is encouraged to contact customer support, which is available 24/7."
+      },
+      {
+        "id": "#2548458",
+        "user": "Noah",
+        "message": "Noah placed an order #2548458",
+        "time": "4 hours ago",
+        "isRead": false,
+        "avatarUrl": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png",
+        "title": "New Order Placed",
+        "description": "Noah has recently placed an order with #2548458 for several fitness products to enhance his workout routine. The order is currently being processed and includes weights, resistance bands, and a yoga mat. Noah is eager to receive these items to help him achieve his fitness goals. The processing team will ensure that all items are shipped promptly and securely. Noah can track the status of his order through his account, and he will receive an email notification once his items have been dispatched. The expected delivery time is within three to five business days."
+      },
+      {
+        "id": "#2548459",
+        "user": "Olivia",
+        "message": "Olivia placed an order #2548459",
+        "time": "3 hours ago",
+        "isRead": false,
+        "avatarUrl": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png",
+        "title": "New Order Placed",
+        "description": "Olivia has placed an order with #2548459 for a collection of beauty products that she has been excited to try. The order is currently being processed, and she anticipates its arrival shortly. Each item has been selected to suit her skincare routine and preferences. The processing team is ensuring that all products meet quality standards before they are shipped. Olivia will be notified once her order has shipped, including tracking details so she can monitor the delivery progress. She is looking forward to receiving her new beauty essentials to enhance her routine."
+      },
+      {
+        "id": "#2548460",
+        "user": "Sophia",
+        "message": "Sophia canceled an order #2548460",
+        "time": "2 hours ago",
+        "isRead": true,
+        "avatarUrl": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png",
+        "title": "Order Cancellation",
+        "description": "Sophia has canceled her order with #2548460 after deciding to explore other options. The cancellation has been processed successfully, and she will receive a full refund for the order amount. Sophia appreciates the quick response from customer support in handling her request. She is encouraged to check out other products on the website that might interest her in the future. Should she have any questions or need further assistance, Sophia can reach out to the support team at any time for help."
+      },
+      {
+        "id": "#2548461",
+        "user": "Ethan",
+        "message": "Ethan placed an order #2548461",
+        "time": "1 hour ago",
+        "isRead": false,
+        "avatarUrl": "https://cdn-icons-png.flaticon.com/512/6858/6858504.png",
+        "title": "New Order Placed",
+        "description": "Ethan has placed a new order with #2548461 for various tech gadgets that he has been wanting. The order is currently being prepared for shipment and includes the latest headphones and smart devices. The processing team is working to ensure that everything is packed securely and dispatched promptly. Ethan can track the status of his order through his account and expects delivery within the next few days. An email notification will be sent once the items have."
+        }
+
+]
